@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/itzaddddd/webhook_test_2#readme",
   "dependencies": {
-    "@hapi/hapi": "^20.1.5"
+    "@hapi/hapi": "^20.1.5",
+    "discord.js": "^13.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
